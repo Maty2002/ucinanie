@@ -37,4 +37,19 @@ int main(int argc, char** argv) {
     plik.close(); 
                                   
 	return 0;
+	
+    /*tresc zadnia
+		zapisać w pliku wejściowym ciągi znaków, ale obcięte od podanego znaku, dla tego pliku wynik będzie taki:
+		baaaa
+		bcb
+		df
+		
+		liczba 0 oznacza,że nic nie obcinamy, 1 że jeden znak z przodu.
+		Wykorzystać funkcję substr, oeaz ewentualnie length () która policzy długość string.
+		
+		Wynik zapisać WIELKIMI LITERAMI (zamienić):
+		BAAAA
+		BCB
+		DF
+	*/
 }
