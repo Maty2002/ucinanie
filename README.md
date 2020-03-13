@@ -1,0 +1,2 @@
+# ucinanie
+ucinamy stringa
